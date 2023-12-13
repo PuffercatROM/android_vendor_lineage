@@ -15,5 +15,5 @@
 -->
 
 <resources>
-    <dimen name="search_bar_corner_radius">24.0dip</dimen>
+    <dimen name="search_bar_corner_radius">15.0dip</dimen>
 </resources>
